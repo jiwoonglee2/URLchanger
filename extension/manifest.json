@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "URL Changer",
+  "description": "Changes web addresses epdf to pdf",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
